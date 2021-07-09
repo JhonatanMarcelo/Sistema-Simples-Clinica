@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/05/25 19:18:50.000.876,=C:\Users\jhona\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/07/08 18:40:19.000.275,=C:\Users\jhona\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2021/07/08 18:41:36.000.337,C:\Users\jhona\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit4.pas=C:\Users\jhona\OneDrive\Área de Trabalho\Sistema Clinica\unitPrincipal.pas</Transaction>
+    <Transaction>2021/07/08 18:41:36.000.337,C:\Users\jhona\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit4.dfm=C:\Users\jhona\OneDrive\Área de Trabalho\Sistema Clinica\unitPrincipal.dfm</Transaction>
+    <Transaction>2021/07/08 18:42:14.000.093,C:\Users\jhona\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\jhona\OneDrive\Área de Trabalho\Sistema Clinica\Clinica.dproj</Transaction>
+    <Transaction>2021/07/09 13:08:11.194,=C:\Users\jhona\OneDrive\Área de Trabalho\Sistema Clinica\Unit1.pas</Transaction>
+    <Transaction>2021/07/09 13:09:12.462,C:\Users\jhona\OneDrive\Área de Trabalho\Sistema Clinica\unitCadPacientes.dfm=C:\Users\jhona\OneDrive\Área de Trabalho\Sistema Clinica\Unit1.dfm</Transaction>
+    <Transaction>2021/07/09 13:09:12.462,C:\Users\jhona\OneDrive\Área de Trabalho\Sistema Clinica\unitCadPacientes.pas=C:\Users\jhona\OneDrive\Área de Trabalho\Sistema Clinica\Unit1.pas</Transaction>
+    <Transaction>2021/07/09 13:09:33.641,=C:\Users\jhona\OneDrive\Área de Trabalho\Sistema Clinica\Unit2.pas</Transaction>
+    <Transaction>2021/07/09 13:09:54.617,C:\Users\jhona\OneDrive\Área de Trabalho\Sistema Clinica\unitCadAgendamentos.dfm=C:\Users\jhona\OneDrive\Área de Trabalho\Sistema Clinica\Unit2.dfm</Transaction>
+    <Transaction>2021/07/09 13:09:54.617,C:\Users\jhona\OneDrive\Área de Trabalho\Sistema Clinica\unitCadAgendamentos.pas=C:\Users\jhona\OneDrive\Área de Trabalho\Sistema Clinica\Unit2.pas</Transaction>
+    <Transaction>2021/07/09 13:55:35.107,=C:\Users\jhona\OneDrive\Área de Trabalho\Sistema Clinica\Unit1.pas</Transaction>
+    <Transaction>2021/07/09 14:02:42.072,C:\Users\jhona\OneDrive\Área de Trabalho\Sistema Clinica\unitDM.pas=C:\Users\jhona\OneDrive\Área de Trabalho\Sistema Clinica\Unit1.pas</Transaction>
+    <Transaction>2021/07/09 14:02:42.072,C:\Users\jhona\OneDrive\Área de Trabalho\Sistema Clinica\unitDM.dfm=C:\Users\jhona\OneDrive\Área de Trabalho\Sistema Clinica\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
